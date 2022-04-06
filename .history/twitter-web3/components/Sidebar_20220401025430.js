@@ -1,0 +1,9 @@
+import { FiMoreHorizontal } from ''
+
+function Sidebar() {
+  return (
+    <div>Sidebar</div>
+  )
+}
+
+export default Sidebar
